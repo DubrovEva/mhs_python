@@ -7,7 +7,11 @@ name = "mhs_python"
 version = "0.1.0"
 description = "Homework assignments for Python course"
 requires-python = ">=3.7"
-dependencies = []
+dependencies = [
+    "numpy>=1.21.0",
+    "aiohttp>=3.8.0",
+    "beautifulsoup4>=4.10.0"
+]
 
 [tool.setuptools]
-packages = ["hw1"]
+packages = ["hw1", "hw2"]

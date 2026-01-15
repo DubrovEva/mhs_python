@@ -1,0 +1,23 @@
+2024-12-10 13:25:00,703 | MainProcess | Sending a message: 'Hello, world!'
+2024-12-10 13:25:00,705 | MainProcess | No new messages available yet
+2024-12-10 13:25:00,705 | Process A | Lowercased a message: 'hello, world!'
+2024-12-10 13:25:00,706 | Process B | Encrypted a message: 'uryyb, jbeyq!'
+2024-12-10 13:25:01,789 | MainProcess | Sending a message: 'Foo'
+2024-12-10 13:25:01,790 | MainProcess | New message available: 'uryyb, jbeyq!'
+2024-12-10 13:25:03,200 | MainProcess | Sending a message: 'Bar'
+2024-12-10 13:25:03,201 | MainProcess | No new messages available yet
+2024-12-10 13:25:04,184 | MainProcess | Sending a message: 'Baz'
+2024-12-10 13:25:04,184 | MainProcess | No new messages available yet
+2024-12-10 13:25:05,709 | Process A | Lowercased a message: 'foo'
+2024-12-10 13:25:05,709 | Process B | Encrypted a message: 'sbb'
+2024-12-10 13:25:10,715 | Process A | Lowercased a message: 'bar'
+2024-12-10 13:25:10,717 | Process B | Encrypted a message: 'one'
+2024-12-10 13:25:15,721 | Process A | Lowercased a message: 'baz'
+2024-12-10 13:25:15,723 | Process B | Encrypted a message: 'onm'
+2024-12-10 13:25:19,506 | MainProcess | Sending a message: 'The end.'
+2024-12-10 13:25:19,506 | MainProcess | New message available: 'sbb'
+2024-12-10 13:25:19,506 | MainProcess | New message available: 'one'
+2024-12-10 13:25:19,506 | MainProcess | New message available: 'onm'
+2024-12-10 13:25:20,727 | Process A | Lowercased a message: 'the end.'
+2024-12-10 13:25:20,731 | Process B | Encrypted a message: 'gur raq.'
+2024-12-10 13:25:22,320 | MainProcess | Sending a message: 'STOP'

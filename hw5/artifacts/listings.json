@@ -1,0 +1,101 @@
+[
+  {
+    "id": "avito_1768508052745_0",
+    "title": "Сдается 1-комнатная квартира",
+    "price": "30000 руб/мес",
+    "location": "moskva",
+    "rooms": 1,
+    "area": "35 м²",
+    "url": "https://www.avito.ru/moskva/kvartiry/sdat/0",
+    "source": "avito",
+    "scraped_at": "2026-01-15T23:14:12.745775"
+  },
+  {
+    "id": "avito_1768508052745_1",
+    "title": "Сдается 2-комнатная квартира",
+    "price": "40000 руб/мес",
+    "location": "moskva",
+    "rooms": 2,
+    "area": "50 м²",
+    "url": "https://www.avito.ru/moskva/kvartiry/sdat/1",
+    "source": "avito",
+    "scraped_at": "2026-01-15T23:14:12.745775"
+  },
+  {
+    "id": "avito_1768508052745_2",
+    "title": "Сдается 3-комнатная квартира",
+    "price": "50000 руб/мес",
+    "location": "moskva",
+    "rooms": 3,
+    "area": "65 м²",
+    "url": "https://www.avito.ru/moskva/kvartiry/sdat/2",
+    "source": "avito",
+    "scraped_at": "2026-01-15T23:14:12.745775"
+  },
+  {
+    "id": "cian_1768508052745_0",
+    "title": "Сдается 1-комнатная квартира",
+    "price": "30000 руб/мес",
+    "location": "moskva",
+    "rooms": 1,
+    "area": "35 м²",
+    "url": "https://www.cian.ru/moskva/kvartiry/sdat/0",
+    "source": "cian",
+    "scraped_at": "2026-01-15T23:14:12.745775"
+  },
+  {
+    "id": "cian_1768508052745_1",
+    "title": "Сдается 2-комнатная квартира",
+    "price": "40000 руб/мес",
+    "location": "moskva",
+    "rooms": 2,
+    "area": "50 м²",
+    "url": "https://www.cian.ru/moskva/kvartiry/sdat/1",
+    "source": "cian",
+    "scraped_at": "2026-01-15T23:14:12.745775"
+  },
+  {
+    "id": "cian_1768508052745_2",
+    "title": "Сдается 3-комнатная квартира",
+    "price": "50000 руб/мес",
+    "location": "moskva",
+    "rooms": 3,
+    "area": "65 м²",
+    "url": "https://www.cian.ru/moskva/kvartiry/sdat/2",
+    "source": "cian",
+    "scraped_at": "2026-01-15T23:14:12.745775"
+  },
+  {
+    "id": "yandex_1768508052745_0",
+    "title": "Сдается 1-комнатная квартира",
+    "price": "30000 руб/мес",
+    "location": "moskva",
+    "rooms": 1,
+    "area": "35 м²",
+    "url": "https://www.yandex.ru/moskva/kvartiry/sdat/0",
+    "source": "yandex",
+    "scraped_at": "2026-01-15T23:14:12.745775"
+  },
+  {
+    "id": "yandex_1768508052745_1",
+    "title": "Сдается 2-комнатная квартира",
+    "price": "40000 руб/мес",
+    "location": "moskva",
+    "rooms": 2,
+    "area": "50 м²",
+    "url": "https://www.yandex.ru/moskva/kvartiry/sdat/1",
+    "source": "yandex",
+    "scraped_at": "2026-01-15T23:14:12.745775"
+  },
+  {
+    "id": "yandex_1768508052745_2",
+    "title": "Сдается 3-комнатная квартира",
+    "price": "50000 руб/мес",
+    "location": "moskva",
+    "rooms": 3,
+    "area": "65 м²",
+    "url": "https://www.yandex.ru/moskva/kvartiry/sdat/2",
+    "source": "yandex",
+    "scraped_at": "2026-01-15T23:14:12.745775"
+  }
+]
